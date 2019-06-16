@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c42eafcf-096e-46de-a4b9-7d5036f1658b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/CeasarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CeasarCipher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/CeasarCipherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CeasarCipherTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,16 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CeasarCipher.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/CeasarCipherTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+            <state relative-caret-position="165">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -68,8 +73,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/CeasarCipher.java" />
         <option value="$PROJECT_DIR$/src/test/java/CeasarCipherTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CeasarCipher.java" />
       </list>
     </option>
   </component>
@@ -176,6 +181,20 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="CeasarCipherTest - 2019.06.16 at 13h 19m 01s.xml">
+      <configuration name="CeasarCipherTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CeasarCipherTest - 2019.06.16 at 13h 28m 23s.xml">
+      <configuration name="CeasarCipherTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CeasarCipherTest - 2019.06.16 at 13h 29m 42s.xml">
+      <configuration name="CeasarCipherTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CeasarCipherTest - 2019.06.16 at 13h 32m 35s.xml">
+      <configuration name="CeasarCipherTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="767" height="873" extended-state="0" />
     <editor active="true" />
@@ -185,7 +204,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24965326" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24965326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -193,7 +212,7 @@
       <window_info anchor="bottom" id="Build" weight="0.3297587" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293011" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -242,20 +261,24 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CeasarCipherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CeasarCipher.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CeasarCipherTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>
