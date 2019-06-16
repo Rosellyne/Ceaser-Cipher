@@ -1,6 +1,6 @@
 
 public class CeasarCipher {
-    public CeasarCipher String Encrypt( String fine,int key){
+    public String Encrypt( String fine,int key){
         String result ="";
         for (int counter =0; counter< fine.length(); counter++ ){
             char text= fine.charAt(counter);
@@ -8,6 +8,9 @@ public class CeasarCipher {
             result +=shifted;
         }
         return result;
+
+    }
+    public   String Decrypt( String fine,int key){
 
     }
 
