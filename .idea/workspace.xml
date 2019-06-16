@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c42eafcf-096e-46de-a4b9-7d5036f1658b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/CeasarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CeasarCipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CeasarCipherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CeasarCipherTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -29,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CeasarCipher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -277,8 +276,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CeasarCipher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
