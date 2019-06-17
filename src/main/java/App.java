@@ -6,9 +6,9 @@ public class App {
         System.out.println(Enter the string to be encrypted);
         String plainText = myConsole.readLine();
 
-//        System.out.println(Enter the shift key);
-//        String shiftkey= myConsole.readLine();
-//        int intKey =Integer.parseInt(shiftkey);
+        System.out.println(Enter the shift key);
+        String shiftkey= myConsole.readLine();
+        int intKey =Integer.parseInt(shiftkey);
 
     }
 }
