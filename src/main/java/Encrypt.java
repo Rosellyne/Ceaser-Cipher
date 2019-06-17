@@ -9,7 +9,7 @@ public class Encrypt {
        public int getmKey() {
             return mKey;
         }
-      public String getmName() {
+      public String getmName() {git g
            return mName;
         }
         public boolean keyValid(){
