@@ -25,7 +25,6 @@ This is an application that enables a user to enter a word and encrypt it or dec
 
    No bugs so far.if found,email me at elijahroselyne@gmail.com
 
-  ##  Link to the live site
 
    ## License
 
