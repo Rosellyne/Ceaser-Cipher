@@ -2,7 +2,7 @@
 public class CeasarCipher {
     private String mName;
     private int mKey;
-    
+
     public int getmKey() {
         return mKey;
     }
@@ -27,9 +27,9 @@ public class CeasarCipher {
 
     public   String Decrypt( String fine,int key) {
         String result = "";
-        for (int counter = 0; counter < fine.length(); counter++) {
-            char text = fine.charAt(counter);
-            char shifted = (char) (text - key);
+        for (int counter = 0; counter < mName.length(); counter++) {
+            char text = mName.charAt(counter);
+            char shifted = (char) (text - mKey);
             result += shifted;
         }
         return result;
